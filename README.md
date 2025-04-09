@@ -8,7 +8,6 @@ This is a beginner-level SQL project focused on querying and analyzing a structu
 - MySQL Workbench
 
 ## Dataset
-- [Include dataset name or description]
 - Simulates real-world business data such as customers, orders, or products.
 
 ## Key Concepts Practiced
